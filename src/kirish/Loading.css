@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    font-family: sans-serif;
+}
+.loading-container {
+    height: 100vh;
+    width: 420px;
+    background: url('../img/photo_2024-07-16_09-04-53.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .loading{
+    position: absolute;
+    top: px;
+}
+.Text1{
+  color: chocolate;
+margin-top: 20vh;
+}
+.HamsterLink{
+  width: 200px;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  position: absolute;
+  left: 100px;
+top: 90px;
+}
+.Tarmoq{
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background-color: rgb(22, 22, 22);
+}
+.Tarmoq1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 45px;
+  color: rgb(255, 255, 255);
+  background-color:   rgb(22, 22, 22);
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+padding:0 10px;
+border-radius: 2px solid gray;
+}
+.Tarmoq2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 45px;
+  color: rgb(255, 255, 255);
+  background-color:  rgb(22, 22, 22);
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+padding:0 10px;
+border-radius: 2px solid gray;
+}
+.Tarmoq3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 45px;
+  color: rgb(255, 255, 255);
+  background-color:   rgb(22, 22, 22);
+  border-radius: 50% ;
+  width: 55px;
+  height: 55px;
+padding:0 10px;
+}
+.shadof{
+  width: 420px;
+  height: 150px;
+  position: absolute;
+  bottom: 0px;
+  background-color: black;
+  box-shadow: -0px -20px 35px 30px rgba(0, 0, 0, 1);
+padding: 40px 50px;
+text-align: center;
+}
+.h4Text1{
+  color: rgb(255, 255, 255);
+}
+.h4Text2{
+  color: rgb(66, 66, 66);
+padding: 5px;
+}
+.h1Text{
+  color: white;
+  font-size: 80px;
+position: absolute;
+margin-top: 300px;
+}
